@@ -1,0 +1,14 @@
+python-dotenv
+pandas
+numpy
+matplotlib
+ensure-annotations
+scikit-learn
+tensorflow
+certifi
+joblib
+setuptools
+
+
+#-e .
+#-e is for referring to setup.py which will package the whole project
