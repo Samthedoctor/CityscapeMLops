@@ -2,7 +2,6 @@ python-dotenv
 pandas
 numpy
 matplotlib
-ensure-annotations
 scikit-learn
 tensorflow
 certifi
